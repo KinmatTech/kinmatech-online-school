@@ -7,9 +7,9 @@ export default function Home() {
     <div className='container-fluid'>
         <div className="row main">
             <div className="col-md-9 left">
-                <div className="left-title">LEARN HTML & CSS IN 1 MONTH AND PHP WITH PHPMYADMIN AND MYSQL IN 1 MONTH</div>
+                <div className="left-title">LEARN HTML/CSS IN 1 MONTH & PHP/MYSQL IN 1 MONTH</div>
                 <div className="left-title2">
-                    <h1 class="bi bi-plus-lg text-success"></h1> Essential Tech Tools for Startups are Available
+                    <h1 class="<bi bi-box-arrow-right text-success"></h1> Essential Tech Tools for Startups are Available
                 </div>
                 <div className="left-body">
                     <p>

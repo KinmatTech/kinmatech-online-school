@@ -3,7 +3,7 @@ import './style.css'
 
 export default function Footer() {
   return (
-    <div className='container-fluid'>
+    <div className='container-fluid'> 
       <div className="row my-footer">
         <div className="foot-left">
           <a href="https://wa.me/+2348060850958" target="_blank" rel="noopener npreferrer"><div className="foot-icon text-success"><i class="bi bi-whatsapp"></i></div></a>         

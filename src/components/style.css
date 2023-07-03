@@ -27,8 +27,8 @@
     margin: 1rem 1rem;
 }
 .my-footer{
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: rgb(23, 20, 20);
     padding: 2rem 4rem;
     justify-content: space-between;
 }
