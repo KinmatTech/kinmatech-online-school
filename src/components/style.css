@@ -1,0 +1,73 @@
+#branded{
+    display: flex;
+    align-items: center;    
+}
+
+#apply-btn{
+    margin-right: 2rem;
+    background-color: white;
+    color: black;
+    font-weight: 700;
+    padding: 0.6rem 1rem;
+    border-radius: 10px;
+}
+#apply-btn:hover{
+    margin-right: 2rem;
+    background-color: rgb(182, 180, 182);
+    color: black;
+    font-weight: 700;
+    padding: 0.6rem 1rem;
+    border-radius: 10px;
+    transition-duration: 0.7s;
+}
+
+.mylogo img{
+    width: 50px;
+    height: 50px;
+    margin: 1rem 1rem;
+}
+.my-footer{
+    background-color: black;
+    color: white;
+    padding: 2rem 4rem;
+    justify-content: space-between;
+}
+.foot-left{
+    display: flex;
+    font-size: 20px;
+}
+.foot-icon{
+    margin: 0px 1rem;
+}
+
+@media screen and (max-width: 768px) { 
+    .my-footer{
+        background-color: black;
+        color: white;
+        padding: 2rem 4rem;
+        justify-content: center;
+    }
+    .foot-right{
+        text-align: center;
+        font-size: 12px;
+    }
+    .foot-icon{
+        margin: 1rem 1rem;
+    }
+    #apply-btn{
+        text-align: center;
+        margin: 1rem 1rem;
+    }
+    #apply-btn:hover{
+        text-align: center;
+        margin: 1rem 1rem;
+    }
+    .mybrand{
+        font-size: 14px;
+    }
+    .mylogo img{
+        width: 30px;
+        height: 30px;
+        margin: 1rem 1rem;
+    }
+}
