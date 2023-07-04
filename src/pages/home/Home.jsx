@@ -41,7 +41,7 @@ export default function Home() {
                 </div><br/>
                 
                 <div class="card">
-                    <h5 class="card-header text-center text-success text-big">Tutorial Contents on PHP/MYSQL</h5>
+                    <h5 class="card-header text-center text-success">Tutorial Contents on PHP/MYSQL</h5>
                     <div class="card-body">
                         <ul>
                             <li>Introduction to PHP</li>

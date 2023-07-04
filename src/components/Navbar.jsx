@@ -8,7 +8,7 @@ export default function Navbar() {
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <Link to="/" class="navbar-brand" id="branded">
                 <div className="mylogo"><img src='kinmat-logo.png' alt='logo' /></div>
-                <div className="mybrand">Kinmatech School WorldWide</div>
+                <div className="mybrand text-success txt-bold">Kinmatech School WorldWide</div>
             </Link>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -17,7 +17,7 @@ export default function Navbar() {
                 <ul class="navbar-nav">
                     <li class="nav-item active" >
                         <Link to="/application" class="nav-link" id='apply-btn'>Register Now</Link>
-                    </li>                                  
+                    </li>                                    
                 </ul>
             </div>
         </nav>
