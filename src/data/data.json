@@ -1,7 +1,7 @@
 {
   "Header": {
     "title": "Welcome to Kinmatech Online School",
-    "paragraph": "LEARN HTML/CSS IN 1 MONTH & PHP/MYSQL IN 1 MONTH.",
+    "paragraph": "LEARN HTML/CSS IN 3 MONTHS & PHP/MYSQL IN 3 MONTHS.",
     "paragraph2": "With your laptop and internet connection you are good to go"
   },
   "About": {
@@ -21,8 +21,8 @@
   "Features": [
     {
       "icon": "fa fa-code",  
-      "title": "Tutorial Contents on HTML/CSS",
-      "text": "Introduction to Object Oriented Programming Language (OOP) and HTML/CSS Basics. N10,000"
+      "title": "Tutorial Contents on HTML/CSS and JAVASCRIPT",
+      "text": "Introduction to Object Oriented Programming Language (OOP) and HTML/CSS Basics. N50,000"
     },
     {
       "icon": "fa fa-github",
@@ -32,7 +32,7 @@
     {
       "icon": "fa fa-codepen",
       "title": "Tutorial Contents on PHP",
-      "text": "Introduction to PHP, PHP Syntax and Variables etc. N10,000.00"
+      "text": "Introduction to PHP, PHP Syntax and Variables etc. N100,000.00"
     },
     {
       "icon": "fa fa-database",
