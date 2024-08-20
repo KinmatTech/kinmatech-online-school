@@ -9,7 +9,8 @@ const initialState = {
 };
 export const Contact = (props) => {
   const [{ name, email, message }, setState] = useState(initialState);
-
+  const [ date, setDate] = useState(new Date());
+  
   const handleChange = (e) => {
     const { name, value } = e.target;
     setState((prevState) => ({ ...prevState, [name]: value }));
@@ -153,7 +154,7 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2023 Kinmatech Online School. Powered by{" "}
+            &copy; { date.getFullYear() } Kinmatech Online School. Powered by{" "}
             <a href="https://www.kinmatech.com.ng" target="_blank" rel="nofollow">
               Kinmatech Limited
             </a>
