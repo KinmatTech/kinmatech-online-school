@@ -1,0 +1,43 @@
+{
+  "Header": {
+    "title": "Welcome to Kinmatech Online School",
+    "paragraph": "LEARN HTML/CSS IN 3 MONTHS & PHP/MYSQL IN 3 MONTHS.",
+    "paragraph2": "With your laptop and internet connection you are good to go"
+  },
+  "About": {
+    "Why": [
+      "Web programming training refers to the process of acquiring knowledge and skills in programming languages, frameworks, and tools used for developing websites and web applications.",
+      "Web programming involves writing code that runs on web servers and is responsible for generating dynamic content, interacting with databases, handling user input, and delivering web pages to browsers."
+    ]
+  
+  },
+ 
+  "Contact": {
+    "address": "Beside Bishop Alex Lesson Centre, Aku Road, Nsukka ",
+    "phone": "+2348060850958",
+    "email": "info@kinmatech.com.ng"
+   
+  },
+  "Features": [
+    {
+      "icon": "fa fa-code",  
+      "title": "Tutorial Contents on HTML/CSS and JAVASCRIPT",
+      "text": "Introduction to Object Oriented Programming Language (OOP) and HTML/CSS Basics. N100,000"
+    },
+    {
+      "icon": "fa fa-github",
+      "title": "Tutorial Contents on Github, Vercel and Netlify",
+      "text": "Basics of DevOps like: Vercel and Netflify and how to use version control Github. N100,000.00"
+    },
+    {
+      "icon": "fa fa-codepen",
+      "title": "Tutorial Contents on PHP",
+      "text": "Introduction to PHP, PHP Syntax and Variables etc. N100,000.00"
+    },
+    {
+      "icon": "fa fa-database",
+      "title": "Tutorial Contents on PHPMYSQL",
+      "text": "Introduction to PHPMYSQL. How to use PHPMyAdmin to access your information from MYSQL database. N100,000.00"
+    }
+  ]
+}
